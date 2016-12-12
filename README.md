@@ -479,3 +479,7 @@ In a view when you have a bunch of `@HTML.HiddenFor` helpers, you need to rememb
 [#18 Login Screen via Authorize (works with Videos #16 and #17 Model within a model)](https://www.youtube.com/watch?v=aM5QKZSfbPQ&feature=youtu.be&hd=1)
 
 
+# Helpful Links
+[Bootstrap Code Snippets (made by Brian)](https://github.com/briandelrosario/ASP.netMVCGuide/blob/master/BootstrapSnippets.md)
+
+[How to initialize an existing project into a new GitHub repo](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/) 
