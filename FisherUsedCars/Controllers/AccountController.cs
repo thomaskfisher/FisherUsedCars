@@ -391,8 +391,11 @@ namespace FisherUsedCars.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult LogOff()
         {
-            AuthenticationManager.SignOut();
+            Session.Abandon();
+            System.Web.Security.FormsAuthentication.SignOut();
             return RedirectToAction("Index", "Home");
+            //AuthenticationManager.SignOut();
+            //return RedirectToAction("Index", "Home");
         }
 
         //
