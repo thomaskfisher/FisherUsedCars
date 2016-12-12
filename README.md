@@ -121,3 +121,47 @@ namespace FisherUsedCars
     }
 }
 ```
+
+
+
+# Tips and Tricks
+### #1
+Include `FisherUsedCarsContext db = new FisherUsedCarsContext();` at the top of every controller that you will want to access the database from (which is practically all controllers).
+```C#
+namespace FisherUsedCars.Controllers
+{
+    public class HomeController : Controller
+    {
+        FisherUsedCarsContext db = new FisherUsedCarsContext();
+```
+### #2
+At the top of a view where you will be accessing data from the database, you will need to specify which model you are using. You will either use a single instance of the model `@model FisherUsedCars.Models.Vehicles` (such as when you are editing the details of a single record) or you will use multiple instances of the model `@model IEnumerable<FisherUsedCars.Models.Vehicles>` (like when you're viewing a list of the records in the database.
+```C#
+@model FisherUsedCars.Models.Vehicles
+
+@{
+    ViewBag.Title = "Details";
+}
+```
+```C#
+@model IEnumerable<FisherUsedCars.Models.Vehicles>
+
+@{
+    ViewBag.Title = "Index";
+}
+```
+
+### #3
+This is how you do a proper bootsrap button.
+```HTML
+<a class="btn btn-success" href="@Url.Action("AddBSISQuestion", "AddQuestion", null, null)">Ask A Question</a>
+```
+
+### #4
+This is how you create a bootstrap error message (if there is one).
+```HTML
+@if (ViewBag.alert == true)
+{
+    <h4 class="alert alert-danger" role="alert">@ViewBag.error</h4>
+}
+```
