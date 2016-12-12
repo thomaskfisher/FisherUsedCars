@@ -403,3 +403,38 @@ In a view when you have a bunch of `@HTML.HiddenFor` helpers, you need to rememb
 @Html.Hidden("userID", @Session["TESLA"])
 @Html.Hidden("answer", @TempData["TempAnswer"])
 ```
+
+# GitHub Written Tutorials
+[Introduction to Views](https://github.com/byu-is-403/syllabus/blob/master/asp-dotnet-mvc/views.md)
+
+[Entity Framework](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/entity-framework.md)
+
+[Entity Framework Tutorial](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/entity-framework-tutorial.md)
+
+[Entity Framework Tutorial Explanation](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/tutorial-explanation.md)
+
+[.NET HTML Forms](https://github.com/danmo91/HTML-Forms)
+
+[Forms and Helpers](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/form-helpers.md)
+
+[Model Annotations and Validations](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/annotations-and-validations.md)
+
+[Dropdown List](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/how-to-create-dropdown-list.md)
+
+[Model within a Model](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/model-within-model.md)
+
+[Security](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/security.md)
+
+[Adding Authorization](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/adding-authorization.md)
+
+[How to Authenticate Using Google](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/how-to-authenticate-using-google.md)
+
+[How to Grab Info from Google Authentication](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/google-authentication.md)
+
+[User Identity](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/user-identify.md)
+
+[Pass User Login to View](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/pass-user-login-to-view.md)
+
+[Return to Previous URL](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/return-to-previous-url.md)
+
+[ASP.NET MVC 5 Deployment](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/deployment.md)
