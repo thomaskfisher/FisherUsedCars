@@ -438,3 +438,44 @@ In a view when you have a bunch of `@HTML.HiddenFor` helpers, you need to rememb
 [Return to Previous URL](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/return-to-previous-url.md)
 
 [ASP.NET MVC 5 Deployment](https://github.com/byu-is-403/syllabus/blob/master/entity-framework/deployment.md)
+
+
+
+# Video Tutorials
+[#1 Creating an MS SQL Server Database and Tables using Visual Studio 2013](https://www.youtube.com/watch?v=jwarWeWadn4&feature=youtu.be&hd=1)
+
+[#2 Create a default MVC ASP.NET application - explain app structure](https://www.youtube.com/watch?v=JZ4MoqeqzHo&feature=youtu.be&hd=1)
+
+[#3 Default MVC Controllers and Views (_ViewStart, _Layout,  _LoginPartial)](https://www.youtube.com/watch?v=qOnYmyTRA2w&feature=youtu.be&hd=1)
+
+[#4 How Razor Processes the Views (RenderBody)](https://www.youtube.com/watch?v=y5VgvAaYVaM&feature=youtu.be&hd=1)
+
+[#5 Modifying a menu in a view and using Action and ActionLink to click on an Image and a link to take you to other views](https://www.youtube.com/watch?v=iT1PfwVq6ac&feature=youtu.be&hd=1)
+
+[#6 Working with a Database - Creating the HardKnox Database - Part 1](https://www.youtube.com/watch?v=tTGzNxNLSbE&feature=youtu.be&hd=1)
+
+[#7 Working with a Database - Web.config and the Connection String - Part 2](https://www.youtube.com/watch?v=ASTRxNwi0Go&feature=youtu.be&hd=1)
+
+[#8 Work with a Database - Models - Part 3](https://www.youtube.com/watch?v=KGNyGRNL2sg&feature=youtu.be&hd=1)
+
+[#9 Working with a Database - Creating the DbContext Class - Part 4](https://www.youtube.com/watch?v=5ayTV2_hmus&feature=youtu.be&hd=1)
+
+[#10 Working with a Database - Showing the Data - Part 5](https://www.youtube.com/watch?v=vT7pe9_et2A&feature=youtu.be&hd=1)
+
+[#11 Working with a Database - Showing only 1 record from a set - Part 6](https://www.youtube.com/watch?v=9ZyozL1FexE&feature=youtu.be&hd=1)
+
+[#12 Working with a Database - Delete a record - Part 7](https://www.youtube.com/watch?v=9SiSxrrwY8c&feature=youtu.be&hd=1)
+
+[#13 Working with a Database - Editing a record - Part 8](https://www.youtube.com/watch?v=s2KDKQO1Wm4&feature=youtu.be&hd=1)
+
+[#14 Working with a Database - Model Validations and Scaffolding - Part 9](https://www.youtube.com/watch?v=BrdBqZ5bgRY&feature=youtu.be&hd=1)
+
+[#15 Working with a Database - Create a Drop Down List - Part 10](https://www.youtube.com/watch?v=kSL94ZSqez0&feature=youtu.be&hd=1)
+
+[#16 Model within a model (Part 1 of 2)](https://www.youtube.com/watch?v=_qtW1bWsy1E&feature=youtu.be&hd=1)
+
+[#17 Model within a model (Part 2 of 2)](https://www.youtube.com/watch?v=4TkBwbgZIcE&feature=youtu.be&hd=1)
+
+[#18 Login Screen via Authorize (works with Videos #16 and #17 Model within a model)](https://www.youtube.com/watch?v=aM5QKZSfbPQ&feature=youtu.be&hd=1)
+
+
